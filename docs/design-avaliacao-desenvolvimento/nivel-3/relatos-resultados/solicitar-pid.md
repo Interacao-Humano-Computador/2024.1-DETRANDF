@@ -4,6 +4,26 @@
 
 Este documento vai descrever as informações coletadas das avaliações com usuários sobre a tarefa de solicitar Permissão Internacional para Dirigir.
 
+## Protótipo no Figma
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfmMoy18q4y9zgf2rD2EA19%2FIHC---Solicitar-PID%3Fnode-id%3D5-2%26t%3DmOinJajtUHFlD9Mc-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A2" allowfullscreen></iframe>
+
+</center>
+
+## Teste Piloto
+
+
+Também foi realizado um teste piloto para simular uma avaliação com um participante real. 
+No caso o entrevistador fez o papel do entrevistado, como demonstra o vídeo abaixo.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rhwZTpXGEe0?si=8nbKkP87kcZGVAdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Metodologia
 
 Baseando-se nos tópicos relatados, além da avaliação intersujeito descrita por Barbosa e Silva (2011, p.279) e adaptando-os para o documento a ser desenvolvido pela equipe, os tópicos a serem descritos são:
@@ -28,9 +48,31 @@ O método de avaliação foi por meio de entrevistas presenciais gravadas e com 
 
 Para essas entrevistas foi utilizado um notebook para gravação da tela, interação com o protótipo e gravação do rosto do participante; um celular para leitura dos questionários e gravação de áudio e caneta para assinatura do termo de consentimento.
 
+Ademais, foi feito um questionário pré avaliação para verificar a adequação dos participantes ao perfil do usuário; e um pós, para entender a percepção do participante em relação à tarefa são estas as perguntas:
+
+Pré: 
+
+    - Qual é o seu nome?
+
+    - Qual seu grau de experiência com tecnologias?
+
+    - Qual é a sua ocupação atual?
+
+    - Você tem carteira de motorista?
+
+Pós:
+
+    - Algum componente te deixou confuso sobre o que ele fazia?
+
+    - A interface segue o padrão do sistema operacional?
+
+    - Teve alguma informação faltando?
+
+    - Sugere alguma mudança no trajeto?
+
 ### Seleção dos participantes
 
-Os participantes foram escolhidos com base no perfil do usuário. São pessoas jovens que possuem CNH.
+Os participantes foram escolhidos com base no perfil do usuário. São pessoas jovens, estudantes, que possuem CNH.
 
 ### Problemas e dificuldades encontradas
 
@@ -38,34 +80,43 @@ Aqui serão descritos alguns desvios do caminho ideal que os usuários cometeram
 Vale salientar que não são erros e devem ser levados em consideração para o design do site.
 
 Suzane:
+
     - Interagir com o menu de veículos.
 
 Lucas Freire:
+
     - Tentou clicar nos elementos de baixo.
 
 Caetano:
+
     - Nenhuma.
 
 ### Sugestões de melhoria 
 
 Suzane:
+
     - Retirar tela que vem antes do pagamento do boleto.
 
 Lucas Freire:
+
     - Colocar todas as etapas na mesma página.
 
 Caetano:
+
     - Adicionar mais informações
 
 ### Feedback dos usuários
 
 Suzane:
-    - De forma geral achou a tarefa de fácil realização, mas achou uma etapa desnecessária.
+
+    - De forma geral achou a tarefa de fácil realização, mas achou a etapa anterior ao pagamento desnecessária e a demonstração da informação do endereço escolhido desnecessária.
 
 Lucas Freire:
+
     - Daria para colocar tudo na mesma página.
 
 Caetano:
+
     - Encontrou mais dúvidas relacionadas à PID em si e considerou que informações importantes não foram dadas. 
 
 
@@ -77,21 +128,23 @@ Os participantes foram bem divergentes quanto aos feedbacks e deram sujestões d
 ### Sumário dos principais resultados
 
 A tabela 1 vai apresentar os desvios do caminho ideal e tempo para realização de cada participante.
+
 <center>
-**Tabela 2** - Possíveis Participantes da Avaliação e suas Funções.
 
-| Participante | Desvios | Tempo para realização (s) |
+**Tabela 1** - Participantes da Avaliação e seus desempenhos.
+
+| Participante | Desvios | Tempo para realização |
 | :----------: | -- | -- |
-| Suzane Duarte     | 1 | 1:03 | 
-| Lucas Freire | 1 | 
-| Caetano |  0 | 
+| Suzane Duarte     | 1 | 1m03s | 
+| Lucas Freire | 1 | 1m53s
+| Caetano |  0 | 1m42s |
 
+Quantidade média de desvios: 0,667
+Tempo médio de realização da tarefa: 1m32s
 
 _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 </center>
-
-Por fim, a gravação da avaliação deve ser disponibilizada da seguinte forma:
 
  
 <center>
@@ -99,6 +152,8 @@ Por fim, a gravação da avaliação deve ser disponibilizada da seguinte forma:
 #### Avaliação Suzane
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nnRefcE1mJY?si=yWXHIW6Qn841SPhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 </center>
 
@@ -108,6 +163,8 @@ Por fim, a gravação da avaliação deve ser disponibilizada da seguinte forma:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pDSqum8fNSo?si=g5ET5BJSP0_6SJ2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+_Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
+
 </center>
 
 <center>
@@ -116,9 +173,9 @@ Por fim, a gravação da avaliação deve ser disponibilizada da seguinte forma:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PghfvFBwxjA?si=zbGMZ38e8uTCy3xi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+_Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 </center>
 
-_Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 ### Planejamento de Reprojeto
 
@@ -132,7 +189,7 @@ A tabela 3 apresenta o cronograma planejado do reprojeto. Onde serão feitas alg
 | :----------------:  | :---------------: | :------------: | :--------: |
 |  Pedro Sena | 05/07/2024 | 19:00 | 20:30 |
 
-**Fonte** - [Pedro Sena](https://github.com/pedroyen21).
+_Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 </center>
 
