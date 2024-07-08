@@ -40,7 +40,7 @@ Baseando-se nos tópicos relatados, além da avaliação intersujeito descrita p
 
 ### Objetivo e Escopo da Avaliação
 
-Esta experiência tem como objetivo analisar ideias e alternativas de design e problemas na interação e na interface, e foi bem sucedido.
+Esta experiência tem como objetivo encontrar problemas na interação e na interface, e foi bem sucedido.
 
 ### Método de avaliação
 
@@ -48,76 +48,74 @@ O método de avaliação foi por meio de entrevistas presenciais gravadas e com 
 
 Para essas entrevistas foi utilizado um notebook para gravação da tela, interação com o protótipo e gravação do rosto do participante; um celular para leitura dos questionários e gravação de áudio e caneta para assinatura do termo de consentimento.
 
-Ademais, foi feito um questionário pré avaliação para verificar a adequação dos participantes ao perfil do usuário; e um pós, para entender a percepção do participante em relação à tarefa são estas as perguntas:
+Ademais, foi feito um [questionário pré avaliação](#tabela-1---questionário-pré-avaliação) para verificar a adequação dos participantes ao perfil do usuário; e um [pós](#tabela-2---questionário-pós-avaliação), para entender a percepção do participante em relação à tarefa.
 
-Pré: 
+As perguntas do [questionário pré avaliação](#tabela-1---questionário-pré-avaliação) foram inspiradas nas características mais relevantes do [perfil de usuário](../../../analise-requisitos/usuario.md#analise-dos-resultados) para justificar sua escolha para a avaliação. 
 
-    - Qual é o seu nome?
+Já as perguntas do [questionário pós avalição](#tabela-2---questionário-pós-avaliação) foram tiradas do livro BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011, capítulo  9, página 293, do objetivo identiﬁcar problemas na interação e interface.
 
-    - Qual seu grau de experiência com tecnologias?
+<center>
 
-    - Qual é a sua ocupação atual?
+#### **Tabela 1** - Questionário pré avaliação
 
-    - Você tem carteira de motorista?
+| Pergunta | 
+| -- |
+|Qual é o seu nome?|
+|Qual seu grau de experiência com tecnologias?|
+|Qual é a sua ocupação atual?|
+|Você tem carteira de motorista?|
 
-Pós:
+#### **Tabela 2** - Questionário pós avaliação
 
-    - Algum componente te deixou confuso sobre o que ele fazia?
+| Pergunta | 
+| -- | 
+|Algum componente te deixou confuso sobre o que ele fazia?|
+|Teve alguma informação faltando?|
+|Qual é a sua ocupação atual?|
+| Sugere alguma mudança no trajeto?|
 
-    - A interface segue o padrão do sistema operacional?
-
-    - Teve alguma informação faltando?
-
-    - Sugere alguma mudança no trajeto?
+</center>
 
 ### Seleção dos participantes
 
-Os participantes foram escolhidos com base no perfil do usuário. São pessoas jovens, estudantes, que possuem CNH.
+Os participantes foram escolhidos com base no perfil do usuário. São pessoas jovens, estudantes, que possuem CNH. As tabelas abaixo representam as perguntas do [questionário pré avaliação](#tabela-1---questionário-pré-avaliação) respondido pelos perticipantes:
+
+#### **Tabela 3** - Questionário pós avaliação
+
+| Pergunta | Fonte | 
+| -- | -- |
+|Algum componente te deixou confuso sobre o que ele fazia?||
+|Teve alguma informação faltando?||
+|Qual é a sua ocupação atual?||
+| Sugere alguma mudança no trajeto?||
 
 ### Problemas e dificuldades encontradas
 
 Aqui serão descritos alguns desvios do caminho ideal que os usuários cometeram ao interagir com a interface.
 Vale salientar que não são erros e devem ser levados em consideração para o design do site.
 
-Suzane:
-
-    - Interagir com o menu de veículos.
-
-Lucas Freire:
-
-    - Tentou clicar nos elementos de baixo.
-
-Caetano:
-
-    - Nenhuma.
+| Participante | Desvios |
+| -- | -- |
+| Suzane | Interagir com o menu de veículos.|
+| Lucas Freire | Tentou clicar nos elementos de baixo. |
+| Caetano | Nenhuma |
 
 ### Sugestões de melhoria 
 
-Suzane:
+| Participante | Sugestão |
+| -- | -- |
+| Suzane | Retirar tela que vem antes do pagamento do boleto|
+| Lucas Freire | Colocar todas as etapas na mesma página |
+| Caetano | Adicionar mais informações |
 
-    - Retirar tela que vem antes do pagamento do boleto.
-
-Lucas Freire:
-
-    - Colocar todas as etapas na mesma página.
-
-Caetano:
-
-    - Adicionar mais informações
 
 ### Feedback dos usuários
 
-Suzane:
-
-    - De forma geral achou a tarefa de fácil realização, mas achou a etapa anterior ao pagamento desnecessária e a demonstração da informação do endereço escolhido desnecessária.
-
-Lucas Freire:
-
-    - Daria para colocar tudo na mesma página.
-
-Caetano:
-
-    - Encontrou mais dúvidas relacionadas à PID em si e considerou que informações importantes não foram dadas. 
+| Participante | Feedback |
+| -- | -- |
+| Suzane | De forma geral achou a tarefa de fácil realização, mas achou a etapa anterior ao pagamento desnecessária e a demonstração da informação do endereço escolhido desnecessária|
+| Lucas Freire | Daria para colocar tudo na mesma página |
+| Caetano | Encontrou mais dúvidas relacionadas à PID em si e considerou que informações importantes não foram dadas | 
 
 
 ### Análise e interpretação dos resultados

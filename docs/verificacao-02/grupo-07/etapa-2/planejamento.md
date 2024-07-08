@@ -15,7 +15,7 @@ Este planejamento tem o intuito de informar como se dará a verificação dos ar
 
 ## Metodologia
 
-Para esta verificação, será utilizado o método de inspeção. Que também é bastante usado para identificar erros e antever defeitos de interface, Barbosa e Silva (2011, p.301), mas nesse contexto será usada para verificar artefatos do projeto.
+Para esta verificação, será utilizado o método de inspeção. Que também é bastante usado para identificar erros e antever defeitos de interface, Barbosa e Silva (2010, p.301), mas nesse contexto será usada para verificar artefatos do projeto.
 Os checklists serão compostos por:
 
 
@@ -61,10 +61,10 @@ A verificação será realizada no dia 26 de junho de 2024. A tabela 1 a seguir,
 
 | Data       | Descrição                                                                   | Responsável(eis)                                                                                               |
 | ---------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 26/06/2024 | Inspeção  do Perfil do usuário.             | [](https://github.com/)                                                    |
-| 26/06/2024 | Inspeção das Personas. | [](https://github.com/)                                                    |
-| 26/06/2024 | Inspeção dos cenários.                     | [](https://github.com/)                                                    |
-| 26/06/2024 | Inspeção dos aspectos éticos.         | [](https://github.com/)                                                    |
+| 26/06/2024 | Inspeção  do Perfil do usuário.             |  [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Inspeção das Personas. |  [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Inspeção dos cenários.                     |  [Filipe Carvalho](https://github.com/filipe-002)                                                    |
+| 26/06/2024 | Inspeção dos aspectos éticos.         |  [Filipe Carvalho](https://github.com/filipe-002)                                                    |
 | 26/06/2024 | Inspeção da análise de tarefas.                                  |   |
                                                  
 
@@ -78,7 +78,7 @@ As checklists foram desenvolvidas com base nos padrões esperados para cada arte
 
 Para essa verificação, serão usados 5 checklists, uma para cada artefato. As checklists são: perfil do usuário, personas, cenários, aspectos éticos e análise de tarefas. As Tabelas 2 a 6 apresentam as checklists de verificação.
 
-Os checklists foram elaborados com base no livro de Barbosa e Silva, Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2011. Seus capítulos e páginas serão melhor especificadas em cada checklist.
+Os checklists foram elaborados com base no livro de Barbosa e Silva, Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2010. Seus capítulos e páginas serão melhor especificadas em cada checklist.
 
 </center>
 
@@ -213,7 +213,7 @@ _Fonte: [Pedro Sena](https://github.com/pedroyen21), 2024._
 
 ## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro, 2011.
+> Barbosa, Simone Diniz Junqueira Interação humano-computador – Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de Versões
 
