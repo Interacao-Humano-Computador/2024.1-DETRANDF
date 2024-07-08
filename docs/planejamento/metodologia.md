@@ -59,4 +59,4 @@ Este documento foi adaptado para refletir as práticas específicas do nosso gru
 
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 15/05/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)|

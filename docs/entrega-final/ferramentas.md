@@ -1,6 +1,6 @@
 ## Introdução
 
-Este documento vai descrever onde cada ferramenta descrita no [planjemanto](../planejamento/ferramentas.md) foi utilizada, em que parte do desenvolvimento da etapa e qual etapa.
+Este documento vai descrever onde cada ferramenta descrita no [planejamento](../planejamento/ferramentas.md) foi utilizada, em que parte do desenvolvimento da etapa e qual etapa.
 
 ## Tabela de Ferramentas
 

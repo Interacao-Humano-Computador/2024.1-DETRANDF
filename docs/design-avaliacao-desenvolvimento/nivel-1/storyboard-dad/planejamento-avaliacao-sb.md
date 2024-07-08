@@ -151,6 +151,6 @@ A seguir, apresentamos o vídeo do teste-piloto conforme o cronograma, onde [XXX
 
 | Versão | Data       | Descrição                           | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------------------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 15/05/2024 | Criação da página                   | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
-| `1.1`  | 22/05/2024 | Ajuste da página, e seus tópicos    | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
-| `1.2`  | 22/05/2024 | Ajuste de cronograma de entrevistas | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 15/05/2024 | Criação da página                   | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |
+| `1.1`  | 22/05/2024 | Ajuste da página, e seus tópicos    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |
+| `1.2`  | 22/05/2024 | Ajuste de cronograma de entrevistas | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)          |

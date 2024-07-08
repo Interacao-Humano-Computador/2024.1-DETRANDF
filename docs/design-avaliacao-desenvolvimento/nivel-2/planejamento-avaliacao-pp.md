@@ -150,4 +150,4 @@ De maneira geral o teste piloto correu bem, mas foi percebido que é interessant
 
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
-| `1.0`  | 03/06/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | --          |
+| `1.0`  | 03/06/2024 | Criação da página | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)|

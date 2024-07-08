@@ -1,9 +1,6 @@
 # Heatmap
 
-## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|24/03/2024|24/03/2024|1.0|Criação do Documento|[Vinicius Vieira](https://github.com/viniciusvieira00)| XX |
+
 
 
 ## <a>Heatmap de quadro de indisponibilidade</a>
@@ -11,7 +8,7 @@ Neste documento está apresentado o quadro de disponibilidade dos integrantes do
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/heatmap.png?raw=true'></img>
+![heatmap](./images/heatmap.png)
 
 *Figura 1 - Mapa de calor (Figura do autor, 2024)*
 <br><br>
@@ -22,7 +19,8 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 
 <center>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo06/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
+
+![legenda heatmap](./images/legendaHeatmap.png)
 
 *Figura 2 - Legenda Heatmap  (Figura do autor, 2024)*
 
@@ -30,3 +28,8 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 
 ## <a>Bibliografia</a>
 - HEATMAP. Disponível em: https://neilpatel.com/br/blog/heatmap-o-que-e Acesso em: 20 de março de 2024.
+
+## <a>Histórico de Versão</a>
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|24/03/2024|24/03/2024|1.0|Criação do Documento|[Vinicius Vieira](https://github.com/viniciusvieira00)| Pedro Sena |
