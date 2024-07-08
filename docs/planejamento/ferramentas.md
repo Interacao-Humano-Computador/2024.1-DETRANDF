@@ -22,6 +22,9 @@ Cada ferramenta selecionada foi cuidadosamente integrada em nosso fluxo de traba
 |                                                       ![Logo do WhatsApp](logos/whatsapp.png){: style="height:85px;width:85px"}                                                       | WhatsApp                  | Utilizado como principal canal de comunicação. <a id="anchor_6" href="#FRM6">^6^</a>                        |
 |                                                        ![Logo do Youtube](logos/youtube.png){: style="height:100px;width:100px"}                                                        | YouTube                   | Hospedagem de vídeos produzidos. <a id="anchor_7" href="#FRM7">^7^</a>                                      |
 |                                                   ![Logo do Excel](logos/excel.png){: style="height:94px;width:72px"}                                                    | Excel          | Criação de planilhas relacionadas ao cronograma e horários. <a id="anchor_8" href="#FRM8">^8^</a>           |
+| ![Planilhas](logos/image-1.png){: style="height:100px;width:100px"}|Google Planilhas  | Gráficos de resultados dos checklists <a id="anchor_9" href="#FRM7">^9^</a>|
+| ![Docs](logos/image.png){: style="height:100px;width:100px"}|Google Docs  | Confecção do documento de entrega<a id="anchor_10" href="#FRM7">^10^</a> |
+|![tpdne](logos/image-2.png){: style="height:100px;width:100px"}     |This person does not exist | Geração de imagens de rostos para personas <a id="anchor_11" href="#FRM7">^11^</a>|
 
 _Fonte: Autores._
 
@@ -44,9 +47,17 @@ _Fonte: Autores._
 > <a id="FRM7" href="#anchor_7">7.</a> YouTube. Disponível em: [https://about.youtube/](). Acesso em: 04 de abr. de 2024.
 >
 > <a id="FRM8" href="#anchor_8">8.</a> Excel. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 04 de abr. de 2024.
+> <a id="FRM8" href="#anchor_9">9.</a> Google Planilhas. Disponível em: [https://docs.google.com/spreadsheets](). Acesso em: 04 de abr. de 2024.
 >
+> <a id="FRM8" href="#anchor_10">10.</a> Google Docs. Disponível em: [https://docs.google.com/document](). Acesso em: 04 de abr. de 2024.
+>
+> <a id="FRM8" href="#anchor_11">11.</a> This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 04 de abr. de 2024.
+>
+
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | `1.0`  | 04/04/2024 | Criação da página de ferramentas.         | [Filipe Carvalho](https://github.com/Filipe-002)| [Vinicius Vieira](https://github.com/viniciusvieira00) |
+| `1.1`  | 07/07/2024 | Atualização das ferramentas.         | [Pedro Sena](https://github.com/pedroyen21)|  |
