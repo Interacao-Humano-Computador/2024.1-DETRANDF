@@ -133,4 +133,4 @@ A Tabela 3 detalha um cronograma para o reprojeto, que será iniciado 3 dias ap�
 
 | Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                  |
 | ------ | ---------- | --------------------- | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 18/06/2024 | Criação da página.    | [Filipe Carvalho](https://github.com/filipe-002) | |
+| `1.0`  | 18/06/2024 | Criação da página.    | [Filipe Carvalho](https://github.com/filipe-002) | [Pedro Sena](https://github.com/pedroyen21) |

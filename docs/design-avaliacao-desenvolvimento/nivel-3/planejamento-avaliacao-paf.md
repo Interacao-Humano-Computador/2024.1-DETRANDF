@@ -55,6 +55,7 @@ A escolha deste método se deve ao fato de permitir a coleta de muitas informaç
 ## I - Identificar Questões Práticas da Avaliação
 
 ### Recrutamento
+
 Os participantes foram selecionados com base no artefato [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-DETRANDF/analise-requisitos/usuario/). Embora haja algumas divergências quanto ao número exato de participantes, este número varia entre 3 e 10. Segundo Krug, com três ou quatro participantes a maioria dos problemas é detectada<a id="anchor_2" href="#REF2">^2^</a>. Portanto, para os testes de usabilidade, serão selecionados 3 participantes.
 
 <a id="met2"></a>
@@ -142,6 +143,8 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | ------------------------------------------------------ | ---------------------------------------------------- | ---------- | ----------- | ----------------- |
 | [Vinicius Vieira](https://github.com/viniciusvieira00) | <span style = "color: orange">Vitor Machado</span>   | 23/06/2024 | 14:30-14:45 | Asa Sul - SQS 316 |
 | [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Suzane Duarte</span>   | 02/07/2024 | 10:20-10:30 | FGA - UED |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Caetano</span>   | 02/07/2024 | 8:20-8:30 | FGA - UED |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Lucas Freire</span>   | 01/07/2024 | 8:50-9:00 | FGA - UED |
 | [Filipe Carvalho](https://github.com/filipe-002)| <span style = "color: orange">Maciel Romualdo</span>   | 27/06/2024 | 14:30-15:30 | FGA - UED |
 
 **Fonte** - [Vinicius Vieira](https://github.com/viniciusvieira00).
