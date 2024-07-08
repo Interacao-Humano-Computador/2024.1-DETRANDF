@@ -95,6 +95,7 @@ Este documento representará quais foram as avaliações realizadas durante o pr
     **Tabela 6** - Entrevista Susane Duarte
 
     | Entrevistador | Entrevistado | Data | Horário | Local |
+    | - | - | - | - | - |
     | [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Suzane Duarte</span>   | 02/07/2024 | 9:50-10:00 | FGA - UED |
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nnRefcE1mJY?si=yWXHIW6Qn841SPhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -104,6 +105,7 @@ Este documento representará quais foram as avaliações realizadas durante o pr
     **Tabela 7** - Entrevista Caetano
 
     | Entrevistador | Entrevistado | Data | Horário | Local |
+    | - | - | - | - | - |
     | [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Caetano</span>   | 02/07/2024 | 10:10-10:20 | FGA - UED |
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/PghfvFBwxjA?si=zbGMZ38e8uTCy3xi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -113,6 +115,7 @@ Este documento representará quais foram as avaliações realizadas durante o pr
     **Tabela 8** - Entrevista Lucas Freire
 
     | Entrevistador | Entrevistado | Data | Horário | Local |
+    | - | - | - | - | - |
     | [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Lucas Freire</span>   | 01/07/2024 | 8:40-8:50 | FGA - UED |
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pDSqum8fNSo?si=g5ET5BJSP0_6SJ2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
