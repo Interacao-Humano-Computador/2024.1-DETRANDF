@@ -8,7 +8,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 1** - Artefatos da etapa 1
+    **Tabela 1** - Artefatos da etapa 1 - Entrega 08/04/2024
 
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -32,7 +32,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 2** - Artefatos da etapa 2
+    **Tabela 2** - Artefatos da etapa 2 - Entrega 06/05/2024
 
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -54,7 +54,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 3** - Artefatos da etapa 3
+    **Tabela 3** - Artefatos da etapa 3 - Entrega 13/05/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -76,7 +76,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 4** - Artefatos da etapa 4
+    **Tabela 4** - Artefatos da etapa 4 - Entrega 22/05/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -98,7 +98,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 5** - Artefatos da etapa 5
+    **Tabela 5** - Artefatos da etapa 5 - Entrega 03/06/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -120,7 +120,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 6** - Artefatos da etapa 6.1
+    **Tabela 6** - Artefatos da etapa 6.1 - Entrega 12/06/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -140,7 +140,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 7** - Artefatos da etapa 7 
+    **Tabela 7** - Artefatos da etapa 7 - Entrega 19/06/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -160,7 +160,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 8** - Artefatos da etapa 6.2
+    **Tabela 8** - Artefatos da etapa 6.2 - Entrega 26/06/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -179,7 +179,7 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
     <center>
 
-    **Tabela 9** - Artefatos da etapa 8 
+    **Tabela 9** - Artefatos da etapa 8 - Entrega 03/07/2024
     
     | Artefato | Descrição | Autor(es) | Revisores |
     | - | - | - | - |
@@ -195,4 +195,4 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
 | Versão | Data       | Descrição  | Autor(es) | Revisor(es)|
 | -- | -- | -- |-- | -- |
-| `1.0`  | 07/07/2024 | Criação da página  | [Pedro Sena](https://github.com/pedroyen21)|  |
+| `1.0`  | 08/07/2024 | Criação da página  | [Pedro Sena](https://github.com/pedroyen21)|  |
