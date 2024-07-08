@@ -15,8 +15,8 @@ Este documento vai descrever as informações coletadas das avaliações com usu
 ## Teste Piloto
 
 
-Também foi realizado um teste piloto para simular uma avaliação com um participante real. 
-No caso o entrevistador fez o papel do entrevistado, como demonstra o vídeo abaixo.
+Também foi realizado um teste piloto para simular uma avaliação com um participante real. h
+No caso o entrevistador fez o papel do entrevistado, como demonstra o vídeo abaixo. O teste piloto foi realizado pelo membro Pedro Sena, às 8h30 do dia 01/07/2024, no prédio UED da FGA.
 
 <center>
 
@@ -37,6 +37,15 @@ Baseando-se nos tópicos relatados, além da avaliação intersujeito descrita p
 * Análise e interpretação dos usuários
 * Sumários dos principais resultados
 * Planejamento de reprojeto
+
+### Cronograma Executado
+
+Foi feito um planejamento das entrevistas, mas não saiu exatamente conforme o planejado, a tabela abaixo mostra o crograma executado.
+
+| Entrevistador | Entrevistado | Data | Horário | Local |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Suzane Duarte</span>   | 02/07/2024 | 9:50-10:00 | FGA - UED |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Caetano</span>   | 02/07/2024 | 10:10-10:20 | FGA - UED |
+| [Pedro Sena](https://github.com/pedroyen21) | <span style = "color: orange">Lucas Freire</span>   | 01/07/2024 | 8:40-8:50 | FGA - UED |
 
 ### Objetivo e Escopo da Avaliação
 

@@ -195,4 +195,4 @@ Neste documento serão descritos os artefatos criados durante o processo de conf
 
 | Versão | Data       | Descrição  | Autor(es) | Revisor(es)|
 | -- | -- | -- |-- | -- |
-| `1.0`  | 07/07/2024 | Criação da página         | [Pedro Sena](https://github.com/pedroyen21)|  |
+| `1.0`  | 07/07/2024 | Criação da página  | [Pedro Sena](https://github.com/pedroyen21)|  |
