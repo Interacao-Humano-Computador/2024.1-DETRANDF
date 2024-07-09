@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Este documento vai apresentar os cenários elaborados a partir de uma tarefa escolhida por cada membro do grupo. Cada cenário deve construir uma situação realista de uso do sistema com contexto, objetivos, personagens e detalhes relevantes para a idealização de um redesign.
 
 ### Solicitação Internacional para Dirigir
 
@@ -44,7 +44,8 @@ Sentindo-se aliviado por ter resolvido essa pendência, Carlos volta ao trabalho
 | Versão | Data       | Descrição                                                   | Autor(es)                                              | Revisor(es)                                            |
 | ------ | ---------- | ----------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
 | `1.0`  | 17/05/2024 | Criação da página e adição do cenário de solicitação de PID | [Pedro Sena](https://github.com/pedroyen21)            | [Vinicius Vieira](https://github.com/viniciusvieira00) |
-| `1.1`  | 08/07/2024 | Criação do cenário de Emissão de Nada Consta da CNH         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)            |
-| `1.2`  | 08/07/2024 | Criação do cenário de Emissão de CRLV                       | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)            |
+| `1.1`  | 17/05/2024 | Introdução                                                  | [Pedro Sena](https://github.com/pedroyen21)            | --                                                     |
+| `1.2`  | 08/07/2024 | Criação do cenário de Emissão de Nada Consta da CNH         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)            |
+| `1.3`  | 08/07/2024 | Criação do cenário de Emissão de CRLV                       | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Pedro Sena](https://github.com/pedroyen21)            |
 
 
