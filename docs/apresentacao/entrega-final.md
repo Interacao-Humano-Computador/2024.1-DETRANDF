@@ -5,9 +5,9 @@ O propósito desta página é hospedar o vídeo da apresentação Entrega Final 
 ## Apresentação da Entrega Final - Detran DF
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/clLfzXBkPgo?si=IJJ7gbKbQeXFnNg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/clLfzXBkPgo?si=IJJ7gbKbQeXFnNg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-<a href="https://www.youtube.com/watch?v=clLfzXBkPgo">Link para o vídeo no YouTube</a>
+<a href="https://www.youtube.com/watch?v=xxLjgv4wM4Q&feature=youtu.be">Link para o vídeo no YouTube</a>
 
 
 ## Histórico de versão
@@ -15,6 +15,7 @@ O propósito desta página é hospedar o vídeo da apresentação Entrega Final 
 | Versão | Data     | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | -------- | ----------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 08/07/24 | Criação da página | [Pedro Sena](https://github.com/pedroyen21) |              |
+| `1.1`  | 08/07/24 | Adição de vídeo | [Vinicius Vieira](https://github.com/viniciusvieira00) |              |
 
 
 
