@@ -210,8 +210,15 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da primeir
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Verificação dos Artefatos 1</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                              | Período de desenvolvimento     | Responsáveis                                 | Revisão                     | Revisores                                    |
+| -------------------------------------- | ------------------------------ | -------------------------------------------- | --------------------------- | -------------------------------------------- |
+| Verificação e Relato artefatos etapa 1 | Início: 03/06<br>Fim: 12/06    | Pedro Sena                                   | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 2 | Início: 03/06<br>Fim: 12/06    | Filipe Carvalho, Pedro Sena, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 3 | Início: 03/06<br>Fim: 12/06    | Victor Almeida                               | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 4 | Início: 03/06<br>Fim: 12/06    | Vinicius Vieira                              | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Verificação e Relato artefatos etapa 5 | Início: 03/06<br>Fim: 12/06    | Filipe Carvalho                              | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Gravação da apresentação               | Início: 11/06/06<br>Fim: 11/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
+| Correção pós entrega                   | Início: 12/06<br>Fim: 13/06    | Filipe Carvalho, Pedro Sena, Vinicius Vieira | Início: 12/06<br>Fim: 12/06 | Filipe Carvalho, Pedro Sena, Vinicius Vieira |
 
 ## Etapa 6.2 - Verificação dos Artefatos 2
 
@@ -222,11 +229,11 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Verificação dos Artefatos 2</p></font>
 
 
-| Atividade                                     | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| --------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 15/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
-| Verificação e Relato artefatos etapa 4, 5 e 6 | Início: 15/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
-| Execução do protótipo de alta fidelidade      | Início: 13/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
+| Atividade                                     | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| --------------------------------------------- | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 15/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
+| Verificação e Relato artefatos etapa 4, 5 e 6 | Início: 15/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
+| Execução do protótipo de alta fidelidade      | Início: 13/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -236,8 +243,11 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da segunda
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Verificação dos Artefatos 2</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                     | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| --------------------------------------------- | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 15/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
+| Verificação e Relato artefatos etapa 4, 5 e 6 | Início: 15/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
+| Execução do protótipo de alta fidelidade      | Início: 13/06<br>Fim: 18/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho | Início: 19/06<br>Fim: 20/06 | Vinicius Vieira, Pedro Sena e Filipe Carvalho |
 
 ## Etapa 7 - Relato do Protótipo de Papel
 
@@ -247,13 +257,13 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima 
 
 <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato do Protótipo de Papel</p></font>
 
-| Atividade                                                                          | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| ---------------------------------------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Relato dos resultados do Protótipo de Papel                                        | Início: 07/06<br>Fim: 08/06 | --           | Início: 08/06<br>Fim: 08/06 | --        |
-| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 07/06<br>Fim: 08/06 | --           | Início: 08/06<br>Fim: 08/06 | --        |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 09/06<br>Fim: 10/06 | --           | Início: 10/06<br>Fim: 10/06 | --        |
-| Gravação da apresentação                                                           | Início: 11/06<br>Fim: 11/06 | Todos        | Início: 12/06<br>Fim: 12/06 | Todos     |
-| Correção pós entrega                                                               | Início: 13/06<br>Fim: 13/06 | Todos        | Início: 14/06<br>Fim: 15/06 | Todos     |
+| Atividade                                                                          | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| ---------------------------------------------------------------------------------- | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Relato dos resultados do Protótipo de Papel                                        | Início: 07/06<br>Fim: 08/06 | Vinicius Vieira                               | Início: 08/06<br>Fim: 08/06 | Pedro Sena                                    |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 07/06<br>Fim: 08/06 | Pedro Sena                                    | Início: 08/06<br>Fim: 08/06 | Filipe Carvalho                               |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 09/06<br>Fim: 10/06 | Filipe Carvalho                               | Início: 10/06<br>Fim: 10/06 | Vinicius Vieira                               |
+| Gravação da apresentação                                                           | Início: 11/06<br>Fim: 11/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 12/06<br>Fim: 12/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+| Correção pós entrega                                                               | Início: 13/06<br>Fim: 13/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 14/06<br>Fim: 15/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -264,8 +274,14 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da sétima
 
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Relato do Protótipo de Papel</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                                          | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| ---------------------------------------------------------------------------------- | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Relato dos resultados do Protótipo de Papel                                        | Início: 07/06<br>Fim: 08/06 | Vinicius Vieira                               | Início: 08/06<br>Fim: 08/06 | Pedro Sena                                    |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 07/06<br>Fim: 08/06 | Pedro Sena                                    | Início: 08/06<br>Fim: 08/06 | Filipe Carvalho                               |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 09/06<br>Fim: 10/06 | Filipe Carvalho                               | Início: 10/06<br>Fim: 10/06 | Vinicius Vieira                               |
+| Gravação da apresentação                                                           | Início: 11/06<br>Fim: 11/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 12/06<br>Fim: 12/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+| Correção pós entrega                                                               | Início: 13/06<br>Fim: 13/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 14/06<br>Fim: 15/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+
 
 ## Etapa 8 - Relato do Protótipo de alta fidelidade
 
@@ -276,13 +292,13 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava e
 <font size="3"><p style="text-align: center"><b>Tabela 17</b> - Relato do Protótipo de alta fidelidade</p></font>
 
 
-| Atividade                                                          | Período de desenvolvimento  | Responsáveis | Revisão                     | Revisores |
-| ------------------------------------------------------------------ | --------------------------- | ------------ | --------------------------- | --------- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 14/06<br>Fim: 15/06 | --           | Início: 15/06<br>Fim: 16/06 | --        |
-| Planejamento de verificação dos artefatos da entrega 7             | Início: 14/06<br>Fim: 15/06 | --           | Início: 15/06<br>Fim: 16/06 | --        |
-| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 17/06<br>Fim: 18/06 | --           | Início: 19/06<br>Fim: 20/06 | --        |
-| Gravação da apresentação                                           | Início: 24/06<br>Fim: 24/06 | Todos        | Início: 24/06<br>Fim: 25/06 | Todos     |
-| Correção pós entrega                                               | Início: 27/06<br>Fim: 27/06 | Todos        | Início: 28/06<br>Fim: 29/06 | Todos     |
+| Atividade                                                          | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| ------------------------------------------------------------------ | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 14/06<br>Fim: 15/06 | Vinicius Vieira                               | Início: 15/06<br>Fim: 16/06 | Pedro Sena                                    |
+| Planejamento de verificação dos artefatos da entrega 7             | Início: 14/06<br>Fim: 15/06 | Pedro Sena                                    | Início: 15/06<br>Fim: 16/06 | Vinicius Vieira                               |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 17/06<br>Fim: 18/06 | Filipe Carvalho                               | Início: 19/06<br>Fim: 20/06 | Pedro Sena                                    |
+| Gravação da apresentação                                           | Início: 24/06<br>Fim: 24/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 24/06<br>Fim: 25/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+| Correção pós entrega                                               | Início: 27/06<br>Fim: 27/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 28/06<br>Fim: 29/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
 
 <font size="3"><p style="text-align: center">Fonte: [Vinicius Vieira](https://github.com/viniciusvieira00).</p></font>
 
@@ -292,8 +308,14 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 <font size="3"><p style="text-align: center"><b>Tabela 18</b> - Relato do Protótipo de alta fidelidade</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+| Atividade                                                          | Período de desenvolvimento  | Responsáveis                                  | Revisão                     | Revisores                                     |
+| ------------------------------------------------------------------ | --------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 14/06<br>Fim: 15/06 | Vinicius Vieira                               | Início: 15/06<br>Fim: 16/06 | Pedro Sena                                    |
+| Planejamento de verificação dos artefatos da entrega 7             | Início: 14/06<br>Fim: 15/06 | Pedro Sena                                    | Início: 15/06<br>Fim: 16/06 | Vinicius Vieira                               |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 17/06<br>Fim: 18/06 | Filipe Carvalho                               | Início: 19/06<br>Fim: 20/06 | Pedro Sena                                    |
+| Gravação da apresentação                                           | Início: 24/06<br>Fim: 24/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 24/06<br>Fim: 25/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+| Correção pós entrega                                               | Início: 27/06<br>Fim: 27/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena | Início: 28/06<br>Fim: 29/06 | Vinicius Vieira, Filipe Carvalho e Pedro Sena |
+
 
 ## Bibliografia
 
@@ -303,13 +325,14 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor(es)                                              | Revisor(es)                                      |
-| ------ | ---------- | --------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------ |
-| 1.0    | 24/03/2024 | Criação do Documento                                | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.1    | 03/04/2024 | Atualização tabela de planejados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.2    | 04/04/2024 | Atualização tabela de executados                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas      | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.6    | 13/05/2024 | Correções após a 3ª Entrega                         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
-| 1.7    | 22/05/2024 | Ajuste de cronograma de executado da 4ª entrega     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| Versão | Data       | Descrição                                                           | Autor(es)                                              | Revisor(es)                                      |
+| ------ | ---------- | ------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| 1.0    | 24/03/2024 | Criação do Documento                                                | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.1    | 03/04/2024 | Atualização tabela de planejados                                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.2    | 04/04/2024 | Atualização tabela de executados                                    | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.3    | 04/04/2024 | Atualização tabela de planejados outras etapas                      | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.4    | 09/04/2024 | Atualização tabela de planejados primeira etapa                     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.5    | 13/05/2024 | Atualização tabela de executado da terceira entrega                 | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.6    | 13/05/2024 | Correções após a 3ª Entrega                                         | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.7    | 22/05/2024 | Ajuste de cronograma de executado da 4ª entrega                     | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.8    | 08/07/2024 | Ajuste de cronograma de planejamento e executado das entregas 5 a 8 | [Vinicius Vieira](https://github.com/viniciusvieira00) | [Filipe Carvalho](https://github.com/filipe-002) |
