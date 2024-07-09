@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Este documento vai apresentar os cenários elaborados a partir de uma tarefa escolhida por cada membro do grupo. Cada cenário deve construir uma situação realista de uso do sistema com contexto, objetivos, personagens e detalhes relevantes para a idealização de um redesign.
 
 ### Solicitação Internacional para Dirigir
 
@@ -23,5 +23,6 @@ Após voltar de viagem alguns meses depois, Caio reencontra Renato e resolve agr
 | Versão | Data       | Descrição         | Autor(es)                                              | Revisor(es) |
 | ------ | ---------- | ----------------- | ------------------------------------------------------ | ----------- |
 | `1.0`  | 17/05/2024 |Criação da página e adição do cenário de solicitação de PID| [Pedro Sena](https://github.com/pedroyen21) | --          |
+| `1.1`  | 17/05/2024 |Introdução| [Pedro Sena](https://github.com/pedroyen21) | --          |
 
 
