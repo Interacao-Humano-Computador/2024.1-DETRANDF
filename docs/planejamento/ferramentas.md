@@ -25,6 +25,7 @@ Cada ferramenta selecionada foi cuidadosamente integrada em nosso fluxo de traba
 | ![Planilhas](logos/image-1.png){: style="height:100px;width:100px"}|Google Planilhas  | Gráficos de resultados dos checklists <a id="anchor_9" href="#FRM7">^9^</a>|
 | ![Docs](logos/image.png){: style="height:100px;width:100px"}|Google Docs  | Confecção do documento de entrega<a id="anchor_10" href="#FRM7">^10^</a> |
 |![tpdne](logos/image-2.png){: style="height:100px;width:100px"}     |This person does not exist | Geração de imagens de rostos para personas <a id="anchor_11" href="#FRM7">^11^</a>|
+|![alt text](logos/teams.png){: style="height:100px;width:100px"}     | Teams |  Reunião e gravação de apresentações <a id="anchor_12" href="#FRM7">^12^</a>|
 
 _Fonte: Autores._
 
@@ -52,6 +53,8 @@ _Fonte: Autores._
 > <a id="FRM8" href="#anchor_10">10.</a> Google Docs. Disponível em: [https://docs.google.com/document](). Acesso em: 04 de abr. de 2024.
 >
 > <a id="FRM8" href="#anchor_11">11.</a> This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 04 de abr. de 2024.
+>
+> <a id="FRM8" href="#anchor_12">12.</a> Teams. Disponível em: [https://teams.microsoft.com/](). Acesso em: 04 de abr. de 2024.
 >
 
 

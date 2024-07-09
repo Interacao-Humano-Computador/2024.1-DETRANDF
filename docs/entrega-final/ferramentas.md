@@ -22,6 +22,7 @@ A tabela abaixo vai mostrar as ferramentas usadas
 | [Google Planilhas](https://docs.google.com/spreadsheets)| 6.1 e 6.2 | Gráficos de resultados dos checklists |
 | [Google Docs](https://docs.google.com/document)| Todas | Confecção do documento de entrega |
 | [This person does not exist](https://thispersondoesnotexist.com/)| 2 | Geração de imagens de rostos para personas |
+| [Teams](https://teams.microsoft.com/)| 8 | Reunião e gravação de vídeos |
 
 </center>
 
